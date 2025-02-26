@@ -170,7 +170,7 @@ nav a:hover {
 }
 
 /* Capa semitransparente para oscurecer el video */
-.banner-overlay {
+/*.banner-overlay {
   content: "";
   position: absolute;
   top: 0;
@@ -179,7 +179,7 @@ nav a:hover {
   bottom: 0;
   background-color: rgba(61, 34, 49, 0.7);
   z-index: 2; /* La capa se coloca encima del video */
-}
+
 
 /* Contenido del banner */
 .banner-content {
